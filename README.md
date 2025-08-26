@@ -1,7 +1,11 @@
 <h1>AD DS Server Role Lab</h1>
 
 <h2>Description</h2>
-Lab focused on hands-on experience with Microsoft Active Directory. I performed key administrative tasks, including creating and deleting user accounts, moving users between Organizational Units (OUs), and creating a new OU for better organization. I also unlocked user accounts that were locked due to failed login attempts. The lab simulated real-world AD management tasks in a Windows Server environment.
+In this Server Academy lab, I configured a Windows Server (SADC01) as an Active Directory Domain Controller. The project involved assigning a static IP address, installing the Active Directory Domain Services (AD DS) role, and promoting the server to a Domain Controller with a new forest (lab.local). After deployment, I verified the setup using both Active Directory Users and Computers (ADUC) and command-line tools.
+
+This lab provided hands-on experience with Windows Server administration, including network configuration, role installation, and domain verification—core skills required for managing enterprise IT environments.
+
+
 <br />
 
 <h2>Project Highlights</h2>
