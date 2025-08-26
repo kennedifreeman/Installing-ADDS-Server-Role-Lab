@@ -1,7 +1,9 @@
 <h1>AD DS Server Role Lab</h1>
 
 <h2>Description</h2>
-In this Server Academy lab, I configured a Windows Server (SADC01) as an Active Directory Domain Controller. The project involved assigning a static IP address, installing the Active Directory Domain Services (AD DS) role, and promoting the server to a Domain Controller with a new forest (lab.local). After deployment, I verified the setup using both Active Directory Users and Computers (ADUC) and command-line tools. <br>
+In this Server Academy lab, I configured a Windows Server (SADC01) as an Active Directory Domain Controller. The project involved assigning a static IP address, installing the Active Directory Domain Services (AD DS) role, and promoting the server to a Domain Controller with a new forest (lab.local). After deployment, I verified the setup using both Active Directory Users and Computers (ADUC) and command-line tools. 
+
+<br />
 
 This lab provided hands-on experience with Windows Server administration, including network configuration, role installation, and domain verification—core skills required for managing enterprise IT environments.
 
