@@ -10,7 +10,7 @@ Lab focused on hands-on experience with Microsoft Active Directory. I performed 
 > Platform: Server Academy  
 > Environment: Windows Server (Browser-based Lab)  <br>
 > Skills Practiced: Static IP config, AD DS role install, DC promotion, DNS/DSRM basics, verification via ADUC/CLI <br> 
-> Objectives: Configure networking, install AD DS, promote to Domain Controller, verify domain  
+> Objectives: Configure networking, install AD DS, promote to Domain Controller, verify domain  <br>
 > Tools Used: Server Manager, AD DS, Active Directory Users and Computers (ADUC), Command Prompt  <br>
 > Difficulty Level: 🟢 Beginner-Friendly  <br>
 </b>
