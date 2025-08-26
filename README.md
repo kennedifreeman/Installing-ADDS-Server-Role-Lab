@@ -30,7 +30,7 @@ After logging into the Server Academy lab environment:<br>
      - IP Address: 10.1.0.10 <br>
      - Subnet Mask: 255.255.255.0 <br>
      - Default Gateway: 10.1.0.1 <br>
-7. Under DNS settings, point the **Preferred DNS Server** to 10.0.0.1 (this will later loop back to the domain controller).  <br>
+7. Under DNS settings, set the Preferred DNS Server to 10.0.0.1 (this will later loop back to the domain controller).  <br>
 8. Click OK → Close.  <br>
 9. Open Command Prompt and verify with:  <br>
    ipconfig /all <br>
